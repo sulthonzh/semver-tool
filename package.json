@@ -1,0 +1,14 @@
+{
+  "name": "semver-tool",
+  "version": "1.0.0",
+  "description": "Zero-dependency semantic version parser, comparator, and bumper. Full SemVer 2.0.0 spec compliance with range satisfaction, coercion, diffing, and CLI.",
+  "main": "index.js",
+  "bin": { "semver-tool": "./cli.js" },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["semver", "semantic-versioning", "version", "range", "satisfies", "bump", "compare"],
+  "license": "MIT",
+  "author": "sulthonzh",
+  "repository": { "type": "git", "url": "https://github.com/sulthonzh/semver-tool" }
+}
