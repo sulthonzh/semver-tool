@@ -7,3 +7,9 @@ build/
 coverage/
 .nyc_output/
 .DS_Store
+
+# Python patterns
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/

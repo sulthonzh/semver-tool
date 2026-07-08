@@ -29,5 +29,8 @@
     "cli.js",
     "README.md",
     "LICENSE"
-  ]
+  ],
+  "devDependencies": {
+    "@changesets/cli": "^2.31.0"
+  }
 }
