@@ -13,3 +13,7 @@ __pycache__/
 .venv/
 *.egg-info/
 .mypy_cache/
+
+# Additional patterns
+*.log
+*.DS_Store
